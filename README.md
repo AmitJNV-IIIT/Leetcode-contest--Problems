@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
