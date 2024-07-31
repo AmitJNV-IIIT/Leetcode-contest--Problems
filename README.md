@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1894-merge-strings-alternately](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
