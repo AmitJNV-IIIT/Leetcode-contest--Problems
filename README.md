@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0274-h-index) |
+| [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
