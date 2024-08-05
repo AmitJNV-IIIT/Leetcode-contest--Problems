@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1894-merge-strings-alternately) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
