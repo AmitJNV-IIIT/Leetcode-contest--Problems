@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
