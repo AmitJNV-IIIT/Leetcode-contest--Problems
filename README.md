@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0055-jump-game) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
