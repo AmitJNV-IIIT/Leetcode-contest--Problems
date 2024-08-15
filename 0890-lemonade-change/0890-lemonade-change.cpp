@@ -11,9 +11,9 @@ public:
                     five_dollars--;
                     ten_dollars++;
                 } else {
-                    return false;
+                    return false;// starting need give 5
                 }
-            } else {
+            } else {//20
                 if (five_dollars > 0 && ten_dollars > 0) {
                     five_dollars--;
                     ten_dollars--;
