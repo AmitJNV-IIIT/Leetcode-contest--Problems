@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
