@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1833-find-the-highest-altitude) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
 | ------- |
