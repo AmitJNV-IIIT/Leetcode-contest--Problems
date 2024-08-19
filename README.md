@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
