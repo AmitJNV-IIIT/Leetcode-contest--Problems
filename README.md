@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
