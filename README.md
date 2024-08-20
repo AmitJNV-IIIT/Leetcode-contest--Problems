@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
