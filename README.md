@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0443-string-compression) |
+| [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
