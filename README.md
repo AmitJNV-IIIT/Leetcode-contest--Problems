@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1319-unique-number-of-occurrences](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0443-string-compression) |
@@ -344,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
