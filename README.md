@@ -349,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
