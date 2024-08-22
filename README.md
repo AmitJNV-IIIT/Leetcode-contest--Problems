@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 ## Depth-First Search
@@ -366,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
