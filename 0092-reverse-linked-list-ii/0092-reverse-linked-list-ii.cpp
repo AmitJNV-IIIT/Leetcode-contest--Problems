@@ -15,7 +15,7 @@ public:
             return head;
         }
 
-        ListNode* dummy = new ListNode(0);
+        ListNode* dummy = new ListNode(0);//handle case left is 1
         dummy->next = head;
         ListNode* prev = dummy;
 
@@ -31,7 +31,13 @@ public:
             temp->next = prev->next;
             prev->next = temp;
         }
+      return dummy->next; 
+    } 
+//     }Store the next node (temp) of cur to avoid losing the reference.
+// Update the cur.next to point to temp.next, effectively reversing the direction.
+// Move temp.next to point to prev.next, effectively moving temp to the correct position in the reversed portion.
+// Update prev.next to point to temp, making temp the new next node of prev.
+// Return the new head of the modified linked list.
 
-        return dummy->next;  
-    }
+// dummy.next points to the head of the modified linked list, 
 };
