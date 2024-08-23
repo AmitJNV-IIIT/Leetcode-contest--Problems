@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0725-split-linked-list-in-parts) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
