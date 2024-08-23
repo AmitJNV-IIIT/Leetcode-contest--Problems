@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0725-split-linked-list-in-parts) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
