@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -397,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
