@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
