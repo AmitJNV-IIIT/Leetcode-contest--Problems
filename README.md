@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
