@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
