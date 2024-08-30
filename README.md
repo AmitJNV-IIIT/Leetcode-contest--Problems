@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Recursion
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 ## Tree
 |  |
 | ------- |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
+| [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 ## Binary Tree
 |  |
 | ------- |
