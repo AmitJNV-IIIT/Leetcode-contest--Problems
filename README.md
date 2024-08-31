@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
