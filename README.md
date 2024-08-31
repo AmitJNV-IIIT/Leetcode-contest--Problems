@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0202-happy-number) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2035-count-sub-islands) |
