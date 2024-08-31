@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1894-merge-strings-alternately) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2470-removing-stars-from-a-string) |
