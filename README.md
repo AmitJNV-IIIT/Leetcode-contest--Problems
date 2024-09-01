@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2035-count-sub-islands) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
