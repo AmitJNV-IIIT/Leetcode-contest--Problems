@@ -18,7 +18,6 @@
 //     --------------
 //     | Interval 2 |
 //     --------------
-
 class Solution 
 {
 public:
