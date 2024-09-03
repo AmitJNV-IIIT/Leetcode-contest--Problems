@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
