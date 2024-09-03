@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
 ## Backtracking
 |  |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 ## Graph
 |  |
 | ------- |
