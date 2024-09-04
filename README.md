@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -538,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -547,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Combinatorics
