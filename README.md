@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2155-find-missing-observations) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
