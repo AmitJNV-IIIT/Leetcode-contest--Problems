@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0056-merge-intervals) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0076-minimum-window-substring) |
