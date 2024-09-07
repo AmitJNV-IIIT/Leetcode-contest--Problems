@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1236-n-th-tribonacci-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1511-count-number-of-teams) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2155-find-missing-observations) |
 ## String
@@ -621,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
