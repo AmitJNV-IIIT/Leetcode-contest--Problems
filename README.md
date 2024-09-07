@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1036-rotting-oranges) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0907-koko-eating-bananas](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
