@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0476-number-complement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
