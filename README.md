@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0289-game-of-life) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0906-walking-robot-simulation) |
