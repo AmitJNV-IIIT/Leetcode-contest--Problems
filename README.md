@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
