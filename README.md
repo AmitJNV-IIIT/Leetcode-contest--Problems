@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0539-minimum-time-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0564-find-the-closest-palindrome) |
