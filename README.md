@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0392-is-subsequence) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
 ## Depth-First Search
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
 |  |
