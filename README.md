@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 ## Tree
 |  |
