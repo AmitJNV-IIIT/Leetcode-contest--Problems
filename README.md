@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2727-number-of-senior-citizens) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
