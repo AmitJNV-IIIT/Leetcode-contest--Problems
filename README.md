@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
@@ -740,4 +743,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0146-lru-cache) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
