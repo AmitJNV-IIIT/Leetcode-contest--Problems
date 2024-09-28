@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0906-walking-robot-simulation) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0649-dota2-senate) |
+| [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
