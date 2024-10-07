@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0394-decode-string) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0432-all-oone-data-structure) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -811,4 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0731-my-calendar-ii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
