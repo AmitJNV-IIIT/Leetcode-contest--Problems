@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3195-separate-black-and-white-balls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2636-maximum-subsequence-score) |
+| [3195-separate-black-and-white-balls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
