@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1236-n-th-tribonacci-number) |
