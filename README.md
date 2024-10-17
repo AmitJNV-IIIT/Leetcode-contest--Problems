@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0871-keys-and-rooms) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
