@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2727-number-of-senior-citizens) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2636-maximum-subsequence-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
