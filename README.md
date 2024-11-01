@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
