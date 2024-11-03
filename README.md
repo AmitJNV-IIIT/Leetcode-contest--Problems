@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0812-rotate-string) |
 ## Game Theory
 |  |
 | ------- |
