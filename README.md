@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
