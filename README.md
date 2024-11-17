@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0921-spiral-matrix-iii) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1397-search-suggestions-system) |
@@ -848,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0969-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -978,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0210-course-schedule-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
