@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmitJNV-IIIT/Leetcode-contest--Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Design
 |  |
